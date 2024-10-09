@@ -1,5 +1,6 @@
-# agent-AI-Q-A-system
-Agent AI for Q&amp;A about database information. It is based in LLMs, LangChain tools and OpenAI
+# Agent-AI-Q-A-system
+Agent AI for Q&amp;A about database information. It is based in LLMs, LangChain tools and OpenAI.
+You need a Postgres database with one or more tables and credential to access to Postgres Database.
 
 # Questions example
 Give me all title order by asc
